@@ -1,0 +1,10 @@
+/** Programmer: Justin Reini */
+import java.util.Date;
+package code;
+public class points {
+	public static void main(String[] args) {
+		Date date= new Date();  /* create the date */
+		System.out.println("\tMy name is Justin R\n");
+		System.out.println(date.toString());
+	}
+}
